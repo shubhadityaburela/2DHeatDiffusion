@@ -1,0 +1,27 @@
+{
+	"case": "Case 1: Single diffusivity",
+	"Lx": 1.0,
+	"Ly": 1.0,
+	"Nx": 10,
+	"Ny": 10,
+	"tFinal": 40,
+	"NumTimeSteps": 400,
+	"NumHetSec": 1, 
+	"TInit": 473,
+	"TLeft": 473,
+	"TRight": 400,
+	"alpha": 1e-8,
+	"NumOptSteps": 1000,
+	"OptErr": 1e-8,
+	"Density": 8238,
+	"Cp": 504,
+	"HeatInput": [1.0,0.4,0.6,0.4,0.6],
+	"HeatCond": [15.2,0.0,1.0,0.0,1.0]
+
+}
+
+
+
+
+
+

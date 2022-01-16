@@ -1,0 +1,3 @@
+/Users/shubhadityaburela/Downloads/AdjointHeatDiffusion/build/CMakeFiles/AdjointHeatDiffusion.dir
+/Users/shubhadityaburela/Downloads/AdjointHeatDiffusion/build/CMakeFiles/edit_cache.dir
+/Users/shubhadityaburela/Downloads/AdjointHeatDiffusion/build/CMakeFiles/rebuild_cache.dir
