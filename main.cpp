@@ -13,7 +13,7 @@ int main()
 {
     // Read the input file
     char *InputFile;
-    InputFile = "case_1.json";
+    InputFile = "../case_1.json";
 
     // Construct the Inputs
     ProblemInput Inputs(InputFile);
